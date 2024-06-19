@@ -29,7 +29,7 @@
 .btn:focus {
     outline-color: transparent;
     outline-style: solid;
-    box-shadow: 0 0 0 1px rgb(253, 1, 1);
+    box-shadow: 0 0 0 1px rgb(255, 255, 255);
     transition: 0.4s;
 }
 
@@ -38,5 +38,5 @@
 }
 
 .btn:active>.myIconGood {
-    fill: red;
+    fill: rgb(255, 255, 255);
 }
